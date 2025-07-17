@@ -749,7 +749,6 @@ export const CustomerDetailsForm: React.FC<CustomerDetailsFormProps> = ({
             {renderStepContent()}
           </form>
         </div>
-
         {/* Footer */}
         <div className="border-t bg-gray-50 p-6">
           <div className="flex justify-between">
